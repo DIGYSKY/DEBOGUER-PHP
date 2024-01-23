@@ -1,6 +1,6 @@
 # DEBOGUER PHP 2.0.0
 ---
-Il s'agit d'un mini débuguer pour PHP qui affiche les différentes variables setter.
+Il s'agit d'un mini déboguer pour PHP qui affiche les différentes variables setter.
 ---
 ## installation :
 Dans un premier temps il faut définir la constante qui permet d'activer "DEBOGUER PHP 2.0.0" comme suit :
