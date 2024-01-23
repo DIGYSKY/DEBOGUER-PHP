@@ -14,3 +14,13 @@ Enfin il sufit de requier le fichier à la fin de votre site web généralemtn d
 ```
 
 ### En vous souhaitant bon code !!!
+
+### GNU GENERAL PUBLIC LICENSE
+
+Use Python 3
+
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/> 
+Everyone is permitted to copy and distribute verbatim copies 
+of this license document, but changing it is not allowed.
+
+See the LICENSE file
