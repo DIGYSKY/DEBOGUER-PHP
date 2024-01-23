@@ -17,7 +17,7 @@ Enfin il sufit de requier le fichier à la fin de votre site web généralemtn d
 
 ### GNU GENERAL PUBLIC LICENSE
 
-Use Python 3
+Use php 8.2
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/> 
 Everyone is permitted to copy and distribute verbatim copies 
