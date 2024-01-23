@@ -10,7 +10,7 @@ define('DEBUG', true); // activate debuguer php
 Cette définition se fait généralement dans le fichier de configuration de votre site web !
 Enfin il sufit de requier le fichier à la fin de votre site web généralemtn dans le footer comme suit :
 ```php
-<?php require_once './phpDebuguer.php' ?>
+<?php require_once './cheminVersLeFichier/phpDebuguer.php' ?>
 ```
 
 ### En vous souhaitant bon code !!!
