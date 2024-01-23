@@ -3,7 +3,7 @@
 Il s'agit d'un mini déboguer pour PHP qui affiche les différentes variables setter.
 ---
 ## installation :
-Dans un premier temps il faut définir la constante qui permet d'activer "DEBOGUER PHP 2.0.0" comme suit :
+Dans un premier temps il faut définir la constante qui permet d'activer "DEBOGUER PHP" comme suit :
 ```php
 define('DEBUG', true);// activate deboguer php
 ```
