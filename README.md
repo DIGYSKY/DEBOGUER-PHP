@@ -8,7 +8,7 @@ Dans un premier temps il faut définir la constante qui permet d'activer "DEBOGU
 define('DEBUG', true);// activate deboguer php
 ```
 Cette définition se fait généralement dans le fichier de configuration de votre site web !
-Enfin il suffit de requiert le fichier à la fin de votre site web, généralement dans le footer comme suit :
+Enfin il suffit de requier le fichier à la fin de votre site web, généralement dans le footer comme suit :
 ```php
 < ?php require_once './cheminVersLeFichier/phpDebuguer.php' ?>
 ```
