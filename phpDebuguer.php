@@ -35,7 +35,7 @@
                     <?php
                     $color = ($key[0] === '_') ? 'blue' : (is_object($value) ? 'red' : '');
                     ?>
-                    <button class='button' onclick='toggleContent("<?php echo $key; ?>-content")' style='position: absolute; top: 2px; right: 10px; border-radius: 1em; font-size: 2em; padding: 8px 20px;'>+</button>
+                    <button class='button' onclick='toggleContent("<?php echo $key; ?>-content")' style='position: absolute; top: 2px; right: 10px; border-radius: 1em; font-size: 2em; padding: 8px 20px; cursor: pointer;'>+</button>
                     <h2 style='color: <?php echo $color; ?>'><?php echo "$key : " . (empty($variables[$key]) ? 'empty' : ''); ?></h2>
                     <div id='<?php echo "$key-content"; ?>' style='display: none;'>
                         <pre style="overflow: auto;">
