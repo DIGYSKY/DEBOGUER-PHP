@@ -7,7 +7,7 @@ Dans un premier temps il faut définir la constante qui permet d'activer "DEBOGU
 ```php
 define('DEBUG', true);// true : enable, false : disable
 ```
-Cette définition se fait généralement dans le fichier de configuration de votre site web !
+Cette définition se fait généralement dans le fichier de configuration de votre site web (parameters.conf.php) !
 Enfin il suffit de requier le fichier à la fin de votre site web, généralement dans le footer comme suit :
 ```php
 < ?php require_once './cheminVersLeFichier/phpDebuguer.php' ?>
