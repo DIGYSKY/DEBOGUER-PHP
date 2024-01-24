@@ -1,4 +1,4 @@
-# DEBOGUER PHP 2.0.0
+# DEBOGUER PHP 2.1.1
 ---
 Il s'agit d'un mini déboguer pour PHP qui affiche les différentes variables setter.
 ---
