@@ -11,7 +11,7 @@ Cette définition se fait généralement dans le fichier de configuration de vot
 
 Enfin il suffit de requier le fichier à la fin de votre site web, généralement dans le footer comme suit :
 ```php
-< ?php require_once './cheminVersLeFichier/phpDebuguer.php' ?>
+<?php require_once './cheminVersLeFichier/phpDebuguer.php' ?>
 ```
 
 ### En vous souhaitant bon code !! !
