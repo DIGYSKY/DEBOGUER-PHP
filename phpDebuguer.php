@@ -69,7 +69,6 @@
         }
         ?>
     </div>
-
     <script>
         function toggleContent(elementId) {
             let x = document.getElementById(elementId);
