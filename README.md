@@ -5,7 +5,8 @@ Il s'agit d'un mini déboguer pour PHP qui affiche les différentes variables se
 ## installation :
 Dans un premier temps il faut définir la constante qui permet d'activer "DEBOGUER PHP" comme suit :
 ```php
-define('DEBUG', true);// true : enable, false : disable
+define('DEBUG', true); // true : enable, false : disable
+define('TIME_EXE', microtime(true)); // define start time PHP
 ```
 Cette définition se fait généralement dans le fichier de configuration de votre site web (parameters.conf.php) !
 
